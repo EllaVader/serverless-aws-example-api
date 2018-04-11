@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "noteId": "2fab6ee0-256c-11e8-ae84-57ebc37ee3c1"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

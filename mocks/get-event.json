@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "noteId": "3d09a330-28ba-11e8-b73a-c71985ff7cd4f"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "us-east-1:9f61b087-2010-40af-a492-f0073150925f"
+    }
+  }
+}
